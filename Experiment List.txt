@@ -1,0 +1,9 @@
+1. Study and use of different types of graphs and charts (use MS-XLS).
+2. Perform Normalization of data (Min-max and Z-score).
+3. Find Info Gain of an attribute from given data.
+4. Find t and d weight of a data.
+5. Find 5 no summary of a dataset.
+6. Find frequent itemset from given transaction data.
+7. Extend program 6, to find association rule.
+8. Find correlation between items/entities.
+

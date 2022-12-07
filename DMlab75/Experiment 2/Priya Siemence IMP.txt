@@ -1,0 +1,43 @@
+1) OOPs Concepts : Interviewbit PDF or My PDF which I have shared with you earlier
+2) Searching and Sorting :
+
+- linear search
+- binary search
+- bubble sort
+- selection sort
+- merge sort
+- quick sort
+
+3) Top 10 SQL Queries : 
+   (Link : : https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
+
+4) All are imp but 
+
+    almost in 90% interviews 
+   "Nth Highest Salary"
+   (Link : https://youtu.be/RbKZmO8a-yc )
+   (5 ways are there "Using Limit" is the easier one to remember and understand)
+   asked a lot of time 
+
+5) Arrays Question : 
+
+- reverse the array 
+- rotate array
+- Missing Number in Array 
+- Merge 2 sorted arrays
+- Rearrange Array Alternatively
+- Sort Array of 0,1,2 (all here are must but this one is MUSTTTT)
+- equilibrium point
+- leaders in array
+- Convert array into ZigZag fashion (MUSTTT)
+- Trapping Rain Water problem (MUSTTT)
+
+6)Linkedlist Questions : 
+- Find Middle Element in LinkedList
+- Nth Node From end
+- Reverse LinkedList
+- Rotate LinkedList
+- Intersection point in Y shaped LL
+- Detect Loop In LL
+- check if linkedlist is palindrom or not
+
